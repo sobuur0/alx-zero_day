@@ -1,0 +1,1 @@
+**This is a sub-directory inside the alx-day_zero directory** containing the answer to what uname prints when typed into my terminal
